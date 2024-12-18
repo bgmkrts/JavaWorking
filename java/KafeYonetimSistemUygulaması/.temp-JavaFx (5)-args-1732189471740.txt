@@ -1,0 +1,11 @@
+--module-path
+"C:\\javafx-sdk-20.0.2\\lib"
+--add-modules
+javafx.controls,javafx.fxml
+-Dfile.encoding=UTF-8
+-Dstdout.encoding=UTF-8
+-Dstderr.encoding=UTF-8
+-classpath
+"C:\\java2024\\KafeYonetimSistemUygulamasý\\bin;C:\\Users\\BEGUMKARATAS\\Desktop\\javafx-sdk-23.0.1\\lib\\javafx.base.jar;C:\\Users\\BEGUMKARATAS\\Desktop\\javafx-sdk-23.0.1\\lib\\javafx.controls.jar;C:\\Users\\BEGUMKARATAS\\Desktop\\javafx-sdk-23.0.1\\lib\\javafx.fxml.jar;C:\\Users\\BEGUMKARATAS\\Desktop\\javafx-sdk-23.0.1\\lib\\javafx.graphics.jar;C:\\Users\\BEGUMKARATAS\\Desktop\\javafx-sdk-23.0.1\\lib\\javafx.media.jar;C:\\Users\\BEGUMKARATAS\\Desktop\\javafx-sdk-23.0.1\\lib\\javafx.swing.jar;C:\\Users\\BEGUMKARATAS\\Desktop\\javafx-sdk-23.0.1\\lib\\javafx.web.jar;C:\\Users\\BEGUMKARATAS\\Desktop\\javafx-sdk-23.0.1\\lib\\javafx-swt.jar"
+-XX:+ShowCodeDetailsInExceptionMessages
+JavaFx

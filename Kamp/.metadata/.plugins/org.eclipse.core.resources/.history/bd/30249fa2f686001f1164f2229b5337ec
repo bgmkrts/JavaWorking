@@ -1,0 +1,5 @@
+package inheritange2;
+
+public class FileLogger extends Logger {
+
+}

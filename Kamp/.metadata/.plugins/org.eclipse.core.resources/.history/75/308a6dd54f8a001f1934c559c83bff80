@@ -1,0 +1,6 @@
+package MusteriYönetimi;
+
+public class NeroMusteriYonetimi {
+	
+	System.out.println();
+}

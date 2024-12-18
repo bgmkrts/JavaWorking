@@ -1,0 +1,8 @@
+package MusteriYönetimi;
+import	java.io.*;
+
+
+public class NeroMusteriYonetimi {
+	
+	System.out.println("deli");
+}

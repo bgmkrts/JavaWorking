@@ -1,0 +1,9 @@
+package inheritange2;
+
+public class CustomerManager {
+	public void add() {
+		//müşteri ekleme
+		System.out.println("Müşteri eklendi");
+	}
+
+}

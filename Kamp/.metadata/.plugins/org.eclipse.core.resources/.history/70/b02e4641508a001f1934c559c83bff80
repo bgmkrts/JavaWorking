@@ -1,0 +1,14 @@
+package kafeYonetim;
+
+import MusteriYönetimi.NeroMusteriYonetimi;
+
+public class Main {
+
+	public static void main(String[] args) {
+		System.out.println("sghj");
+		NeroMusteriYonetimi nm=new NeroMusteriYonetimi();
+		nm.nero();
+
+	}
+
+}

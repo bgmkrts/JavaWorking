@@ -1,0 +1,5 @@
+spring.application.name=rentACar
+server.port=9090
+logging.level.org.springframework.boot.autoconfigure=ERROR
+spring.devtools.livereload.port=35730
+

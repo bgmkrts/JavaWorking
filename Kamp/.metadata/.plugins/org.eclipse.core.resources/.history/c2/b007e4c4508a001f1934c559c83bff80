@@ -1,0 +1,11 @@
+package MusteriYönetimi;
+import	java.io.*;
+
+
+public class NeroMusteriYonetimi {
+	
+	public void nero() {
+		System.out.println("nero");
+	}
+	
+}
